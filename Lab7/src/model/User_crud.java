@@ -6,7 +6,7 @@ package model;
 import javax.swing.ImageIcon;
 /**
  *
- * @author rashmitha
+ * @author nikhiladevi
  */
 public class User_crud {
     String name;
